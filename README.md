@@ -41,7 +41,7 @@ Visualization of sales trends and performance metrics
 Insights into factors affecting sales
 
 Files:
-bigmart_sales_analysis.ipynb - Jupyter Notebook with the analysis and visualizations
+TASK 3 - BIGMART SALES DATA.ipynb - Jupyter Notebook with the analysis and visualizations
 bigmart_sales_data.csv - Dataset used for the analysis
 
 Contact
