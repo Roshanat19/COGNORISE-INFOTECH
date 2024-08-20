@@ -27,7 +27,7 @@ Visualization of different customer segments
 Recommendations for targeted marketing strategies
 
 Files:
-customer_personality_analysis.ipynb - Jupyter Notebook with the analysis and visualizations
+TASK 2 - CUSTOMER PERSONALITY ANALYSIS.ipynb - Jupyter Notebook with the analysis and visualizations
 customer_data.csv - Dataset used for the analysis
 
 3. BigMart Sales Data
