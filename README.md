@@ -13,7 +13,7 @@ Visualization of unemployment trends by state, gender, and age group
 Insights and recommendations for policymakers
 
 Files:
-unemployment_analysis.ipynb - Jupyter Notebook with the analysis and visualizations
+TASK 1 - UNEMPLOYMENT IN INDIA.ipynb - Jupyter Notebook with the analysis and visualizations
 unemployment_data.csv - Dataset used for the analysis
 
 2. Customer Personality Analysis
